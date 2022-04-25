@@ -1,0 +1,4 @@
+test:
+  prop:
+    example: hi 1
+    and-another: hi 2
